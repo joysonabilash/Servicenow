@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Collection Tracker Workspace App Config">8dc57517bb030a10e26a4700eace8a67</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings>[
+    
+]</event_mappings>
+        <macroponent display_value="Record Default">85c5751790030a10212e7d861091934d</macroponent>
+        <macroponent_config>{
+    "label": {
+        "type": "TRANSLATION_LITERAL",
+        "value": {
+            "code": null,
+            "message": "",
+            "comment": ""
+        }
+    },
+    "bare": {
+        "type": "JSON_LITERAL",
+        "value": true
+    },
+    "scrollable": {
+        "type": "JSON_LITERAL",
+        "value": "y"
+    },
+    "headerLevel": {
+        "type": "JSON_LITERAL",
+        "value": "1"
+    },
+    "headingOnlyVisibleToScreenReaders": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "interceptNotifications": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "propagateNotifications": {
+        "type": "JSON_LITERAL",
+        "value": false
+    }
+}</macroponent_config>
+        <name>Record Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Record">c1c575175d030a10b08af0326f013d50</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-02 18:30:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c9c575170e030a104859a0ee8e660448</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Collection Tracker" source="x_1393996_collec_0">6a2d29d7c3cfc61037d1b7ddd40131a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">6a2d29d7c3cfc61037d1b7ddd40131a6</sys_scope>
+        <sys_update_name>sys_ux_screen_c9c575170e030a104859a0ee8e660448</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-02 18:30:50</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=c9c575170e030a104859a0ee8e660448"/>
+</record_update>

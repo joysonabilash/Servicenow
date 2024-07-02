@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Suggestion</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_1393996_collec_0_suggestion</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-02 17:56:15</sys_created_on>
+        <sys_id>22dd291bc3cfc61037d1b7ddd4013114</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Collec 0 Suggestion</sys_name>
+        <sys_package display_value="Collection Tracker" source="x_1393996_collec_0">6a2d29d7c3cfc61037d1b7ddd40131a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">6a2d29d7c3cfc61037d1b7ddd40131a6</sys_scope>
+        <sys_update_name>sys_db_object_22dd291bc3cfc61037d1b7ddd4013114</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-02 17:56:15</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Collection Tracker">6a2d29d7c3cfc61037d1b7ddd40131a6</application>
+        <file_path/>
+        <instance_id>b02dbff0eb8742d856eafddacad0cd76</instance_id>
+        <instance_name>dev275709</instance_name>
+        <name>sys_db_object_22dd291bc3cfc61037d1b7ddd4013114</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>Suggestion</label><live_feed_enabled>false</live_feed_enabled><name>x_1393996_collec_0_suggestion</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-02 17:56:15</sys_created_on><sys_id>22dd291bc3cfc61037d1b7ddd4013114</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Collec 0 Suggestion</sys_name><sys_package display_value="Collection Tracker" source="x_1393996_collec_0">6a2d29d7c3cfc61037d1b7ddd40131a6</sys_package><sys_policy/><sys_scope display_value="Collection Tracker">6a2d29d7c3cfc61037d1b7ddd40131a6</sys_scope><sys_update_name>sys_db_object_22dd291bc3cfc61037d1b7ddd4013114</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-02 17:56:15</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>2050932751</payload_hash>
+        <record_name>Suggestion</record_name>
+        <reverted_from/>
+        <source>222d29d7c3cfc61037d1b7ddd40131ab</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-02 17:56:16</sys_created_on>
+        <sys_id>fadd291bc3cfc61037d1b7ddd401313c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190749713730000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-02 17:56:16</sys_updated_on>
+        <type>Table</type>
+        <update_guid>32dd291b56cfc61058b6949eebe1d03c</update_guid>
+        <update_guid_history>32dd291b56cfc61058b6949eebe1d03c:2050932751</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-02 17:58:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>c0cbc4b3160c4aba8f9bebb70f5db0c4</sys_id>
+        <sys_metadata>22dd291bc3cfc61037d1b7ddd4013114</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Collec 0 Suggestion</sys_name>
+        <sys_package display_value="Collection Tracker" source="x_1393996_collec_0">6a2d29d7c3cfc61037d1b7ddd40131a6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">6a2d29d7c3cfc61037d1b7ddd40131a6</sys_scope>
+        <sys_scope_delete display_value="">deaefea7527047409f3b9fae64fc1000</sys_scope_delete>
+        <sys_update_name>sys_db_object_22dd291bc3cfc61037d1b7ddd4013114</sys_update_name>
+        <sys_update_version display_value="sys_db_object_22dd291bc3cfc61037d1b7ddd4013114">fadd291bc3cfc61037d1b7ddd401313c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-02 17:58:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

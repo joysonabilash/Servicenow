@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition/>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1393996_collec_0_collection_item</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-02 17:59:40</sys_created_on>
+        <sys_id>6cae6d5bc3cfc61037d1b7ddd40131cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1393996_collec_0_collection_item</sys_name>
+        <sys_package display_value="Collection Tracker" source="x_1393996_collec_0">6a2d29d7c3cfc61037d1b7ddd40131a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">6a2d29d7c3cfc61037d1b7ddd40131a6</sys_scope>
+        <sys_update_name>sys_security_acl_6cae6d5bc3cfc61037d1b7ddd40131cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-02 17:59:40</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <local_or_existing/>
+        <name>x.1393996.collection-tracker-workspace.*</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-02 18:30:51</sys_created_on>
+        <sys_id>09c5751730030a10cbce1c47718bc851</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.1393996.collection-tracker-workspace.*</sys_name>
+        <sys_package display_value="Collection Tracker" source="x_1393996_collec_0">6a2d29d7c3cfc61037d1b7ddd40131a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">6a2d29d7c3cfc61037d1b7ddd40131a6</sys_scope>
+        <sys_update_name>sys_security_acl_09c5751730030a10cbce1c47718bc851</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-02 18:30:51</sys_updated_on>
+        <type display_value="ux_route">b9eb8a1b873303002941b53046cb1234</type>
+    </sys_security_acl>
+</record_update>

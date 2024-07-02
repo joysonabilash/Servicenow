@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Collection Item" language="en" table="x_1393996_collec_0_collection_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Collection Item</label>
+            <language>en</language>
+            <name>x_1393996_collec_0_collection_item</name>
+            <plural>Collection Items</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-02 17:59:35</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Collection Item</sys_name>
+            <sys_package display_value="Collection Tracker" source="x_1393996_collec_0">6a2d29d7c3cfc61037d1b7ddd40131a6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Collection Tracker">6a2d29d7c3cfc61037d1b7ddd40131a6</sys_scope>
+            <sys_update_name>sys_documentation_x_1393996_collec_0_collection_item__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-02 17:59:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

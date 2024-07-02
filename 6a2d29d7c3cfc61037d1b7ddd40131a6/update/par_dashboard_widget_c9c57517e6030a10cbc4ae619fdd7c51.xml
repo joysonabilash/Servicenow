@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">81c57517f0030a10bcacdb438b7c6654</canvas>
+        <component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"enableRealTimeUpdate":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Collection Item","sourceType":"table","tableOrViewName":"x_1393996_collec_0_collection_item","filterQuery":"","id":"dGFibGV0YXNrMTY1Mzg0MTkxNzIyOA==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":true,"headerTitle":"Items","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV0YXNrMTY1Mzg0MTkxNzIyOA==","id":"ZEdGaWJHVjBZWE5yTVRZMU16ZzBNVGt4TnpJeU9BPT0xNjUzODQyMzE4NDk1","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","hideMatrixAggregate":false,"newReporting":false,"configVersion":"23.0.0-ci-SNAPSHOT","filterConfigurations":[],"componentId":"9mriirmz","noDebounce":"","showDateRangeByDefault":false,"allowChangeDateRange":false}</component_props>
+        <h>9</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-02 18:30:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c9c57517e6030a10cbc4ae619fdd7c51</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Collection Tracker" source="x_1393996_collec_0">6a2d29d7c3cfc61037d1b7ddd40131a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">6a2d29d7c3cfc61037d1b7ddd40131a6</sys_scope>
+        <sys_update_name>par_dashboard_widget_c9c57517e6030a10cbc4ae619fdd7c51</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-02 18:37:06</sys_updated_on>
+        <visualization/>
+        <w>16</w>
+        <widget_props/>
+        <x>0</x>
+        <y>3</y>
+    </par_dashboard_widget>
+</record_update>

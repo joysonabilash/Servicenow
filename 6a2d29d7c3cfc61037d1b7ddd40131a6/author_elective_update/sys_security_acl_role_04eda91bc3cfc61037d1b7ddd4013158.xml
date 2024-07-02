@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-02 17:56:21</sys_created_on>
+        <sys_id>04eda91bc3cfc61037d1b7ddd4013158</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1393996_collec_0_suggestion.x_1393996_collec_0.admin</sys_name>
+        <sys_package display_value="Collection Tracker" source="x_1393996_collec_0">6a2d29d7c3cfc61037d1b7ddd40131a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">6a2d29d7c3cfc61037d1b7ddd40131a6</sys_scope>
+        <sys_security_acl display_value="x_1393996_collec_0_suggestion">88eda91bc3cfc61037d1b7ddd4013155</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_04eda91bc3cfc61037d1b7ddd4013158</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-02 17:56:21</sys_updated_on>
+        <sys_user_role display_value="x_1393996_collec_0.admin" name="x_1393996_collec_0.admin">662d29d7c3cfc61037d1b7ddd40131af</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Collection Tracker">6a2d29d7c3cfc61037d1b7ddd40131a6</application>
+        <file_path/>
+        <instance_id>b02dbff0eb8742d856eafddacad0cd76</instance_id>
+        <instance_name>dev275709</instance_name>
+        <name>sys_security_acl_role_04eda91bc3cfc61037d1b7ddd4013158</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-02 17:56:21</sys_created_on><sys_id>04eda91bc3cfc61037d1b7ddd4013158</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1393996_collec_0_suggestion.x_1393996_collec_0.admin</sys_name><sys_package display_value="Collection Tracker" source="x_1393996_collec_0">6a2d29d7c3cfc61037d1b7ddd40131a6</sys_package><sys_policy/><sys_scope display_value="Collection Tracker">6a2d29d7c3cfc61037d1b7ddd40131a6</sys_scope><sys_security_acl display_value="x_1393996_collec_0_suggestion">88eda91bc3cfc61037d1b7ddd4013155</sys_security_acl><sys_update_name>sys_security_acl_role_04eda91bc3cfc61037d1b7ddd4013158</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-02 17:56:21</sys_updated_on><sys_user_role display_value="x_1393996_collec_0.admin" name="x_1393996_collec_0.admin">662d29d7c3cfc61037d1b7ddd40131af</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>429640862</payload_hash>
+        <record_name>x_1393996_collec_0_suggestion.x_1393996_collec_0.admin</record_name>
+        <reverted_from/>
+        <source>222d29d7c3cfc61037d1b7ddd40131ab</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-02 17:56:21</sys_created_on>
+        <sys_id>8ceda91bc3cfc61037d1b7ddd401315a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190749728310000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-02 17:56:21</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>80eda91bfdcfc6103b896f894049d65a</update_guid>
+        <update_guid_history>80eda91bfdcfc6103b896f894049d65a:429640862</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1393996_collec_0_suggestion.x_1393996_collec_0.admin">157e295bc3cfc61037d1b7ddd40131a4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-02 17:58:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>6d71798f6efc4cbcb2d64fd1d8f4b4e4</sys_id>
+        <sys_metadata>04eda91bc3cfc61037d1b7ddd4013158</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1393996_collec_0_suggestion.x_1393996_collec_0.admin</sys_name>
+        <sys_package display_value="Collection Tracker" source="x_1393996_collec_0">6a2d29d7c3cfc61037d1b7ddd40131a6</sys_package>
+        <sys_parent display_value="">88eda91bc3cfc61037d1b7ddd4013155</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">6a2d29d7c3cfc61037d1b7ddd40131a6</sys_scope>
+        <sys_scope_delete display_value="">deaefea7527047409f3b9fae64fc1000</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_04eda91bc3cfc61037d1b7ddd4013158</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_04eda91bc3cfc61037d1b7ddd4013158">8ceda91bc3cfc61037d1b7ddd401315a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-02 17:58:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
