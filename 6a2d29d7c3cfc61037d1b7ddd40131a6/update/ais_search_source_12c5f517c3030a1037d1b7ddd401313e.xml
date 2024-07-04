@@ -3,6 +3,7 @@
         <active>true</active>
         <condition/>
         <datasource display_value="">x_1393996_collec_0_collection_item</datasource>
+        <has_dynamic_filters>false</has_dynamic_filters>
         <name>Collection Item</name>
         <sys_class_name>ais_search_source</sys_class_name>
         <sys_created_by>admin</sys_created_by>
